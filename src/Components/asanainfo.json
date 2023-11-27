@@ -1,0 +1,204 @@
+{
+  "yoga_poses": [
+    {
+      "name": "Mountain Pose",
+      "sanskrit_name": "Tadasana",
+	"image":"https://1.bp.blogspot.com/-sH4Q7qMnP-o/Xhc9UTLnetI/AAAAAAAAAUU/DFkSVZoNhfI2ipKKbSRX8naso30wdwuhgCEwYBhgL/s1600/Screenshot_20200109-201012_Instagram.jpg",
+	"problems":[
+	"headache",
+	"insomnia",
+	"low blood pressure",
+	"dizziness or lightheadedness",
+	"joint, back, or shoulder concerns"
+],
+      "level": "Beginner",
+      "benefits": "Starting position for all standing yoga poses. Improves posture and is a good tool for balance.",
+      "steps": [
+        "Stand with feet close together.",
+        "Relax arms and face palms forward.",
+        "Imagine a cord passing through feet and back of the skull, pulling you into a straight line.",
+        "Pull shoulder blades back, feel tailbone pulling towards the ground.",
+        "Hold for 30 seconds to 1 minute."
+      ]
+    },
+    {
+      "name": "Palm Tree Pose",
+      "sanskrit_name": "Urdhva Hastasana",
+	"image":"https://th.bing.com/th/id/OIP.vwPBXlO96gxl_OBuGJxScgHaIV?w=164&h=185&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"low blood pressure",
+	"dizziness or lightheadedness",
+	"joint, back, or shoulder concerns"
+],
+      "level": "Beginner",
+      "benefits": "Loosens arms, shoulders, and upper back. Often used as a warm-up pose.",
+      "steps": [
+        "Start in Mountain Pose (Tadasana).",
+        "Stretch arms high up, lengthening spine.",
+        "Clasp hands together over your head.",
+        "Inhale deeply, lean right and left, returning to center."
+      ]
+    },
+    {
+      "name": "Standing Forward Bend",
+      "sanskrit_name": "Uttanasana",
+	"image":"https://th.bing.com/th/id/OIP.vwPBXlO96gxl_OBuGJxScgHaIV?w=164&h=185&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"low blood pressure",
+	"dizziness or lightheadedness",
+	"joint, back, or shoulder concerns",
+	"diabetes"
+],
+	
+      "level": "Beginner",
+      "benefits": "Stretches hamstrings, calves, and strengthens thighs. Stimulates the liver and kidneys.",
+      "steps": [
+        "Exhale and release your body forward, folding down.",
+        "Bend knees if needed, release neck to hang heavily.",
+        "Hold for 10-30 seconds, then return to standing or move into a half-standing forward bend."
+      ]
+    },
+    {
+      "name": " Half Standing Forward Bend",
+      "sanskrit_name": "Ardha Uttanasana",
+	"image":"https://th.bing.com/th/id/OIP.d8wx1HawIMNrb-JbyhKm0AHaE8?w=257&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"dizziness or lightheadedness",
+	"joint, back, or shoulder concerns",
+	"diabetes"
+],
+      "level": "Beginner",
+      "benefits": "Stretches and lengthens hamstrings, calves, and front and back torso. It also strengthens the back and spine, improving posture and is the fourth pose in a traditional Sun Salutation.",
+      "steps": [
+        "From the Standing Forward Fold (Uttanasana), press your hands or fingertips into the floor on either side of your feet, or press your palms into your shins. Inhale as you raise your torso away from your thighs, straightening your elbows until your back forms a straight, perpendicular line to your legs, forming an inverted L shape.",
+        "Keep your back straight and your hips aligned over your ankles. Keep your knees slightly bent and lift your head slightly to gaze forward without compressing the neck",
+        "Hold the pose for 1 minute and either release back down into Uttanasana or move into a high lunge."
+      ]
+    },
+	    {
+      "name": "High Lunge",
+      "sanskrit_name": "Utthita Ashwa Sanchalanasana",
+	"image":"https://th.bing.com/th/id/OIP.20deyTeA2jJ_XxF1ohrnLgHaFj?w=233&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"Increases lung capacity",
+	"joint, back, or shoulder concerns",
+	"Enhances stamina",
+	"diabetes"
+],
+      "level": "Beginner",
+      "benefits": "Stretches hamstrings, calves, and strengthens thighs. Stimulates the liver and kidneys.",
+      "steps": [
+        "There are two ways to move into a high lunge. From Downward-facing Dog, lift one of your back feet and move it forward to rest between your hands. From a Half Standing Forward Bend, place your hands on the ground by your feet and extend one foot backwards",
+        " Center your front knee over the heel so that your shin is perpendicular to the floor, and bring your thigh parallel to the floor. Center your weight between your feet and lift your torso until it is upright. Inhale, lift your arms high into the air stretching towards the ceiling.",
+        ": Hold pose for 10-30 seconds, breathing normally. Lengthen the torso with each inhalation, looking forward without strain. To exit pose, place your hands on the ground outside of your front foot and either bring your back leg forward to rise or move your front leg backwards to return to Downward-facing Dog Pose"
+      ]
+    },
+	    {
+      "name": "Chair Pose",
+      "sanskrit_name": "Utkatasana",
+	"image":"https://th.bing.com/th/id/OIP.LKUqC8sAqly9q_x-de_FNQHaFL?w=294&h=206&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"Increases lung capacity",
+	"Enhances stamina",
+	"joint, back, or shoulder concerns",
+	"diabetes"
+],
+      "level": "Beginner",
+      "benefits": " Strengthens thighs and ankles, while toning shoulders, butt, hips, and back. Also stimulates the heart and diaphragm.",
+      "steps": [
+        " Start in Tadasana (Mountain Pose). As you inhale, raise your arms perpendicular to the floor, with your palms facing inward.",
+        ": Exhale and bend your knees, as if you are sitting down in an imaginary chair until your torso forms a right angle to your thighs. Keep your inner thighs parallel to each other and push backwards with your shoulder blades as if you were pushing back on the back of a chair.",
+        " Lift arms up over your head and hold pose for 30 seconds to one minute.",
+"To come out of this pose, inhale while you straighten your knees."
+      ]
+    },
+	    {
+      "name": " Triangle Pose",
+      "sanskrit_name": "Trikonasana",
+	"image":"https://th.bing.com/th/id/OIP.SRLgHFTWZmZaYJDFUSB0RQHaGV?w=214&h=183&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"Increases flexibility",
+	"joint, back, or shoulder concerns",
+	"Enhances stamina",
+	"diabetes",
+	"high blood pressure"
+],
+      "level": "Beginner",
+      "benefits": "The Triangle Pose is one of the most basic yoga poses that offers dozens of variations. In fact, no two sources often agree on the proper way to do a Triangle Pose or its many variations. Triangle Pose strengthens the ankles, legs, thighs and feet as well as the core. Stretches the hamstrings, spine, calf muscles and hips a well as improving balance andopening the chest to help improve breathing.",
+      "steps": [
+        "Start by standing on your mat with legs spread wide (3-4 foot distance between legs) and toes pointing forward.",
+        "Turn your right foot out 90 degrees and your left foot in about 45 degrees.Bring your hands to your hips and square your hips so you are now facing the end of the mat",
+        "As you exhale, bend from the hips and lean your torso to the right until it is parallel with the floor. Keeping your left hand on your hips, lengthen the spine and lower your right hand to the floor just behind your right foot. If you can’t place your hand on the floor, you can either rest your hand on your lower calf or ankle or use a block behind your right foot to stabilize.",
+"To come out of this pose, inhale while you straighten your knees.",
+" As you inhale, raise the left arm straight into the air.",
+"Exhale and turn your head to look up to your top hand.",
+"Hold position for 10-30 seconds, then bring your left hand down and rise back to center.",
+"Repeat on opposite side."
+
+      ]
+    },
+	    {
+      "name": "Extended Side Angle Pose",
+      "sanskrit_name": "Utthita Parsvakonasana",
+	"image":"https://th.bing.com/th/id/OIP.bXSdQzdwl8v7F6xwrAtsYAHaE8?w=304&h=203&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"alignment of the foot",
+	"joint, back, or shoulder concerns",
+	"Enhances stamina",
+	"diabetes"
+],
+      "level": "Beginner",
+      "benefits": "Stretches the thighs, knees, ankles, calves, groins, chest, and shoulders and strengthens the quadriceps and ankles. It also stimulates and tones the abdominal organs and lungs, which improves digestion, elimination, metabolism, and breathing capacity.",
+      "steps": [
+        "Start with your feet in Triangle Pose position with your right leg in front, or you can move into Extended Side Angle Pose directly from Triangle pose. Bend your right knee and shift your weight forward over your knee",
+        "Either leave your right hand on the ground by your right foot or rest it on your right thigh.",
+        "Inhale and bring your left arm up high over your head. Exhale and lean forward, extending your left arm forward. Turn your head and look upward at your left arm.",
+        "Exhale and hold pose for 10-30 seconds, lengthening your spine and stretching your arm high overhead.",
+        "Pull your left arm back in, rise to center and center your weight back over both feet. Move into another pose or repeat on opposite side."
+      ]
+    },
+	    {
+      "name": "Staff Pose",
+      "sanskrit_name": "Dandasana",
+	"image":"https://th.bing.com/th/id/OIP.fRKkZ5NZyVIZ4ZpXPvRf4gHaE8?w=252&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"Increases flexibility",
+	"Lenghtens spine",
+	"Improve Digestion",
+	"Calm Brain cells"
+],
+      "level": "Beginner",
+      "benefits": "The staff pose is another of the most fundamental yoga asanas that can act as a bridge when moving between one pose and another. It also provides full body strengthening and increases overall flexibility",
+      "steps": [
+        "Start from a seated position with your legs straight out in front of you",
+        "Place your hands palms down on the ground on either side of you.",
+        "Feel one cord pulling up on your spine and another pulling you forward from your heels. Feet should be erect with toes pointing upward",
+        "Inhale deeply and exhale slowly, keeping your body erect and your spine in alignment. Hold for 30 seconds to one minute."
+      ]
+    },
+	    {
+      "name": "Easy Pose",
+      "sanskrit_name": "Sukhasana",
+	"image":"https://th.bing.com/th/id/OIP.vejFN6jq1UpE9VH8juYCdAHaE8?w=255&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+	"problems":[	
+	"High Blood Pressure",
+	"Sciatica",
+	"Sacral Ailments",
+	"Knee Disorder"
+],
+      "level": "Beginner",
+      "benefits": "Unfolds the hips and stretches the spine, encourages inner calmness and tones and straightens the backbone. The easy pose is also a good beginner yoga asana for those that don’t quite have the flexibility yet for the lotus pose.",
+      "steps": [
+        "Start in staff pose, then pull your left leg in so your left foot rests under your right thigh. Then pull your right leg in so it rest under your left shin. If your hips are tight, you can place a rolled up towel or block under your buttocks.",
+        "Breathe in and elongate your spine, sitting up as tall as you can. ",
+        "Maintain pose for several minutes, breathing easily. This is a good yoga asana for meditation.",
+"Uncurl your legs and repeat in opposite position."
+      ]
+    }
+
+
+  ]
+}
+
+
+

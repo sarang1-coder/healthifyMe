@@ -1,8 +1,9 @@
 import { useEffect } from 'react';
 import { useRecoilValue } from 'recoil';
-
 import { authAtom, usersAtom } from '_state';
 import { useUserActions } from '_actions';
+import { NavLink } from 'react-router-dom';
+import "../assets/styles/home.css";
 
 export { Home };
 
@@ -19,17 +20,16 @@ function Home() {
 
     return (
         <div>
-            <h1>Hi {auth?.firstName}!</h1>
-            <p>You're logged in with React + Recoil & JWT!!</p>
-            <h3>Users from secure api end point:</h3>
-            {users &&
-                <ul>
-                    {users.map(user =>
-                        <li key={user.id}>{user.firstName} {user.lastName}</li>
-                    )}
-                </ul>
-            }
-            {!users && <div className="spinner-border spinner-border-sm"></div>}
+            <h1>Welcome {auth?.firstName}!</h1>
+                  <strong className='main'><u>FITNESS TRACKER</u></strong>
+            <div className="options">
+                <NavLink to="/bmi">
+                    <button className="btn btn-primary m-3">BMI</button>
+                </NavLink>
+                <NavLink  to="/metabolic"><button  className="btn btn-primary m-3">Metabolic Rate</button></NavLink>
+                <NavLink  to="/bodyfat"><button  className="btn btn-primary m-3">Body Fat Percentage</button></NavLink>
+                <NavLink  to="/idealbody"><button  className="btn btn-primary m-3">Ideal Body Weight</button></NavLink>
+            </div> 
         </div>
     );
 }

@@ -1,0 +1,13 @@
+.container {
+  max-width: 800px; /* Adjust the max-width as needed */
+  margin: 0 auto; /* Center align container */
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  overflow: hidden; /* Hide overflow content */
+}
+
+.pose-details img {
+  max-width: 100%; /* Ensure images fit within the container */
+  height: auto;
+}
